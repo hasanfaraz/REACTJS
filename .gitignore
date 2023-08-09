@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+
 node_modules
 package.json
 .parcel-cache
 dist
-=======
-node_modules/
-.parcel-cache/
->>>>>>> f8c23fd (initial commit)
